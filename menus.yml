@@ -1,0 +1,7 @@
+menus:
+  - label: Packages
+    id: packages
+    menus:
+      - label: 'Say Hello!'
+        id: hello
+        command: hello_example.hello

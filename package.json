@@ -1,0 +1,11 @@
+{
+  "name": "hello_example",
+  "version": "0.1.0",
+  "description": "SilkEdit hello package example",
+  "main": "index.js",
+  "repository": "git@github.com:silkedit/hello.git",
+  "author": "SilkEdit team",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
