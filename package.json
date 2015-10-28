@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "description": "SilkEdit hello package example",
   "main": "index.js",
-  "repository": "https://github.com/silkedit/hello",
-  "author": "SilkEdit team",
-  "license": "MIT",
-  "dependencies": {
-  }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/silkedit/hello"
+  },
+  "author": {
+    "name": "SilkEdit team"
+  },
+  "license": "MIT"
 }
