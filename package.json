@@ -3,10 +3,7 @@
   "version": "0.1.0",
   "description": "SilkEdit hello package example",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "silkedit/hello"
-  },
+  "repository": "silkedit/hello",
   "author": {
     "name": "SilkEdit team"
   },
