@@ -4,7 +4,7 @@ module.exports = {
 
 	commands: {
 		"hello": () => {
-			silk.alert(silk.t("hello_example:hello"));
+			silk.alert(silk.t("hello_example:hello", "Hello!"));
 		}
 	}
 }
