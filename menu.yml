@@ -1,4 +1,4 @@
-menus:
+menu:
   - label: Packages
     id: packages
     menus:
