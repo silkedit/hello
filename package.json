@@ -1,6 +1,6 @@
 {
   "name": "hello_example",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "SilkEdit hello package example",
   "main": "index.js",
   "repository": "silkedit/hello",

@@ -1,10 +1,12 @@
+const silkedit = require('silkedit')
+
 module.exports = {
 	activate: function() {
 	},
 
 	commands: {
 		"hello": () => {
-			silk.alert(silk.t("hello_example:hello", "Hello!"));
+			silkedit.API.alert(silkedit.t("hello_example:hello", "Hello!"));
 		}
 	}
 }
