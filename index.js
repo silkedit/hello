@@ -6,7 +6,7 @@ module.exports = {
 
 	commands: {
 		"hello": () => {
-			silkedit.API.alert(silkedit.t("hello_example:hello", "Hello!"));
+			silkedit.alert(silkedit.tr("hello_example:hello", "Hello!"));
 		}
 	}
 }
